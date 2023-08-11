@@ -8,7 +8,7 @@
     "alibaba"
   ],
   "require": {
-    "php": ">=7.1.7"
+    "php": ">=5.4"
   },
   "require-dev": {
   },
@@ -31,6 +31,6 @@
       "Log_Autoload.php"
     ]
   },
-  "name": "alibabacloud/aliyun-log-php-sdk",
-  "version": "0.6.3"
+  "name": "xueguang666/aliyun-log-php-sdk",
+  "version": "0.6.4"
 }
